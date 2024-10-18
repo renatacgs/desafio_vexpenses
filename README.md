@@ -56,6 +56,4 @@ O arquivo fornecido `main.tf` cria os seguintes recursos na AWS:
    terraform destroy
    ```
 
-# Arquivo Modificado
-O arquivo `main.tf` modificado está no github, link a seguir: 
 
